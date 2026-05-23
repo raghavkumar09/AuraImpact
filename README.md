@@ -71,7 +71,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed (version 18+ recomme
 1. Clone or download this project workspace.
 2. Navigate to the project root directory:
    ```bash
-   cd Assisment
+   cd AuraImpact
    ```
 3. Install the dependencies:
    ```bash
